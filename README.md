@@ -8,9 +8,11 @@ CSV dosyasının içinde bulunan HES kodlarını bir PDF dosyanın içine QR kod
 HES Kodlarının toplu tutulup kontrol yapılan yerlerde gerekli olabilir.
 
 ### Aşağıdaki kütüphaneleri bulundurmak/kurmak gerekli olacaktır.
-> !pip install pyqrcode
-> !pip install pypng
-> !pip install weasyprint
+```
+!pip install pyqrcode
+!pip install pypng
+!pip install weasyprint
+```
 
 # Yapılacaklar
 - css dosya seçimi
