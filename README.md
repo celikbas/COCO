@@ -13,11 +13,12 @@ HES Kodlarının toplu tutulup kontrol yapılan yerlerde gerekli olabilir.
 !pip install weasyprint
 
 # Yapılacaklar
-o css dosya seçimi
-o yüklenen dosyanın kontrolü
+- css dosya seçimi
+- yüklenen dosyanın kontrolü
 
-Lisans:
+# Lisans:
 GPL
+(lisans metni ekdedir)
 
 ## English Description:
 Creates QR codes within a pdf file from a list (csv file) of HES codes.
