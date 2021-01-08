@@ -1,4 +1,4 @@
-# COCO (COdeCreotOr)
+# COCO (HES COdeCreotOr)
 
 HES Kodları üretim sistemi
 
